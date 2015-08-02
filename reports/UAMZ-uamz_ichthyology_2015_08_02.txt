@@ -1,0 +1,66 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 7
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "centriscus scutatus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "pentaprion longimanus" ; Times: 2
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "pellona ditchela" ; Times: 2
+	Query: "Centriscus gulf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 21
+Total number of records retrieved from searches: 176
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 21
+Total number of records retrieved from searches: 176
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

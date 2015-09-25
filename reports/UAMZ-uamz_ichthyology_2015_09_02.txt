@@ -1,0 +1,63 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 5
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ablennes hians" ; Times: 3
+	Query: "Acanthostracion" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Notropis volucellus" ; Times: 1
+	Query: "Pungitius" ; Times: 1
+	Query: "Pungitius country:"Germany"" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "glacier point" ; Times: 1
+	Query: ""rhina"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 33
+Total number of records retrieved from searches: 246
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 33
+Total number of records retrieved from searches: 246
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,74 @@
+Report for Institution Code University of Alberta Museums, Resource UAMZ
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1138 download events in this period)
+Total number of records downloaded: 270 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 220
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 0
+Total number of records retrieved from searches: 0
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 270
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 0
+Total number of records retrieved from searches: 0
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 270
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

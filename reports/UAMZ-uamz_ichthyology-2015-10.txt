@@ -1,0 +1,61 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 133
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rudolfi" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "apodichthys flavidus" ; Times: 1
+	Query: "Ictalurus melas stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "wizard" ; Times: 5
+	Query: "pholis ornata" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "gbifdatasetid:84f3b06c-f762-11e1-a439-00145eb45e9a" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 823 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "aeneus" ; Times: 1
+
+
+End of report.

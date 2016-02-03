@@ -1,0 +1,63 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-18 ; Times: 2
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhina" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "arctic wolf" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 889 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepomis" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.

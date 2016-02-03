@@ -1,0 +1,87 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 177
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 35
+	Country: Italy ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-02 ; Times: 29
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Aulichthys" ; Times: 1
+	Query: "anoxypristis cuspidata" ; Times: 2
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "preparations:skeletal" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "distance(location,geopoint(22.9802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Percina maculata" ; Times: 1
+	Query: "River Darter stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Hypoptychus" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "Percina maculata stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "River Darter type:specimen stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "Aulorhynchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1045 download events in this period)
+Total number of records downloaded: 289
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-23 ; Times: 5
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:aequidens" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+
+
+End of report.

@@ -1,0 +1,71 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minous" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "family:Rivulidae" ; Times: 1
+	Query: "yangi" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "Hypomesus olidus" ; Times: 3
+	Query: "Axis axis" ; Times: 1
+	Query: "Lampetra appendix" ; Times: 1
+	Query: "genus:Microgadus country:"United States"" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "Noturus flavus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 33
+Total number of records retrieved from searches: 246
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 52
+Total number of records retrieved from searches: 348
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,88 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minous" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "family:Rivulidae" ; Times: 1
+	Query: "yangi" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "Hypomesus olidus" ; Times: 3
+	Query: "Axis axis" ; Times: 1
+	Query: "Lampetra appendix" ; Times: 1
+	Query: "genus:Microgadus country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Noturus flavus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 507 download events in this period)
+Total number of records downloaded: 11859
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 12
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.

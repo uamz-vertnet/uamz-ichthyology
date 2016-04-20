@@ -1,0 +1,49 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "enophrys bison" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "starry flounder" ; Times: 1
+	Query: "preparations:skeletal" ; Times: 1
+	Query: "hippoglossoides elassodon" ; Times: 1
+	Query: "dasycottus setiger" ; Times: 1
+	Query: "golden trout" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 230 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.

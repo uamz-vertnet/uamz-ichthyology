@@ -1,0 +1,226 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 12
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-27 ; Times: 5
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 9
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 18
+	Date: 2016-04-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Belonidae stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "AMMODYTIDAE]" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Gasterosteus Ontario" ; Times: 2
+	Query: "Vliet" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "Acipenser fulvescens Ontario" ; Times: 20
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "wizard" ; Times: 16
+	Query: "Gasterosteus aculeatus Ontario" ; Times: 3
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "Muraena" ; Times: 2
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "queen snake" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 3
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "Tylosurus" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.047516))&lt;15000" ; Times: 2
+	Query: "coregonus" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-114.887516))&lt;15000" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.217516))&lt;15000" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "AULORHYNCHIDAE" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 143 (out of 1312 download events in this period)
+Total number of records downloaded: 11582
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Panama ; Times: 140
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 45
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 8
+	Date: 2016-04-22 ; Times: 70
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+
+
+End of report.

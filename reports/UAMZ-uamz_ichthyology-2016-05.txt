@@ -1,0 +1,56 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Brainard Lake" ; Times: 1
+	Query: "lacm phrictus" ; Times: 1
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "wizard" ; Times: 3
+	Query: "tanganicodus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "specificepithet:gilberti genus:Citharichthys" ; Times: 3
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 327 download events in this period)
+Total number of records downloaded: 856
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "gasterosteus" ; Times: 1
+
+
+End of report.

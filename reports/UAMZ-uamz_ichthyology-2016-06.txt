@@ -1,0 +1,91 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 429
+Number of records retrieved in searches: 2209
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 16
+	Country: United States ; Times: 395
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 390
+	Date: 2016-06-08 ; Times: 12
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-07 ; Times: 10
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "bison bison   " ; Times: 3
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:curta genus:Anchoa" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "wizard" ; Times: 7
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "paraplagusia bilineata" ; Times: 2
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "gbifdatasetid:84f3b06c-f762-11e1-a439-00145eb45e9a" ; Times: 5
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "Axis axis" ; Times: 1
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 1
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "University of Alberta and edmonton" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1052 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+
+
+End of report.

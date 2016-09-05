@@ -1,0 +1,129 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 1104
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 151
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 28
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 110
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Lepomis auritus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 4
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 30
+	Query: "specificepithet:latifrons genus:Dormitator" ; Times: 1
+	Query: "specificepithet:bonasus genus:Rhinoptera" ; Times: 2
+	Query: "specificepithet:pacificus genus:Microstomus" ; Times: 2
+	Query: "scientificname:Ameiurus melas country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:saponaceus genus:Rypticus" ; Times: 1
+	Query: "specificepithet:thrissina genus:Harengula" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 9
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:retrosella genus:Apogon" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "specificepithet:cristatus genus:Blennius" ; Times: 1
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 2
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "wizard" ; Times: 6
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:stolifera genus:Lile" ; Times: 2
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 2
+	Query: "specificepithet:ingens genus:Hippocampus" ; Times: 1
+	Query: "scientificname:Alosa sapidissima country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis symmetricus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:hippocampus genus:Hippocampus" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:productus genus:Merluccius" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 3
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 2
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Diapterus" ; Times: 1
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 1
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 2
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 2
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "lengthtype:fork length" ; Times: 2
+	Query: "specificepithet:altivelis genus:Sebastolobus" ; Times: 1
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 3
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 3
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 2
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 2
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "Threespine Stickleback" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 4
+	Query: "specificepithet:belone genus:Belone" ; Times: 1
+	Query: "kawartha class:Actinopterygii" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:flavolineatum genus:Haemulon" ; Times: 2
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 924 download events in this period)
+Total number of records downloaded: 220
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "Mexico" ; Times: 1
+
+
+End of report.

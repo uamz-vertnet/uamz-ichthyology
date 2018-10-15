@@ -1,0 +1,133 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1399
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: France ; Times: 25
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 6
+	Date: 2017-12-23 ; Times: 8
+	Date: 2017-12-07 ; Times: 5
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 12
+	Date: 2017-12-05 ; Times: 7
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 5
+	Date: 2017-12-11 ; Times: 37
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Galeus sauteri" ; Times: 3
+	Query: "umbra limi" ; Times: 1
+	Query: "Coregonus artedi mappable:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Canada goose hastissue:1" ; Times: 2
+	Query: "Canadian lynx" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "walleye" ; Times: 6
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "yellow perch" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Abudefduf abdominalis" ; Times: 2
+	Query: "&#34;Umbra krameri&#34;" ; Times: 2
+	Query: "Canadian Goose" ; Times: 1
+	Query: "Argentina silus mappable:1" ; Times: 2
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "recordedby:vliet" ; Times: 1
+	Query: "Canadian Lynx" ; Times: 1
+	Query: "Gymnura australis" ; Times: 2
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Rajella fyllae mappable:1" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Scomber scombrus mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 1
+	Query: "pumpkinseed" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Paraneetroplus synspilus" ; Times: 1
+	Query: "Mulloidichthys auriflamma" ; Times: 3
+	Query: "northern pike" ; Times: 1
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "&#34;Vieja melanura&#34; OR &#34;Vieja synspila&#34; OR &#34;Cichlasoma synspilum&#34; OR &#34;Paraneetroplus synspilus&#34; OR &#34;Paraneetroplus menalurus&#34; OR &#34;Cichlasoma melanurum&#34;" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "coregonus nasus" ; Times: 1
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Pseudupeneus dentatus" ; Times: 1
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "Walleye" ; Times: 2
+	Query: "lake sturgeon" ; Times: 1
+	Query: "Centropristis striata mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "canadian goose" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 2
+	Query: "rainbow trout" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "&#34;Vieja melanura&#34; OR &#34;Vieja synspila&#34; OR &#34;Cichlasoma synspilum&#34; OR &#34;Paraneetroplus synspilus&#34;" ; Times: 1
+	Query: "grunniens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 674 download events in this period)
+Total number of records downloaded: 285
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Umbra krameri&#34;" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+
+
+End of report.

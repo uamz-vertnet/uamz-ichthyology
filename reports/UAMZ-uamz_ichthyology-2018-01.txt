@@ -1,0 +1,162 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 220
+Number of records retrieved in searches: 4881
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 125
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 57
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-02 ; Times: 14
+	Date: 2018-01-03 ; Times: 27
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 4
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 12
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-24 ; Times: 15
+	Date: 2018-01-17 ; Times: 30
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-23 ; Times: 89
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "rivulus hartii" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "genus:aulostomus hastissue:1" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "genus:lota hastissue:1" ; Times: 5
+	Query: "Cutthroat Trout hastissue:1" ; Times: 4
+	Query: "Chromis multilineata" ; Times: 1
+	Query: "&#34;Salvelinus namaycush&#34; hastissue:1" ; Times: 3
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "Pomacentrus jenkinsi" ; Times: 1
+	Query: "genus:Fistularia hastissue:1" ; Times: 1
+	Query: "eelpout" ; Times: 2
+	Query: "&#34;Lake chub&#34; hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(41.6073861305001,-70.5313918259999))&lt;11201" ; Times: 1
+	Query: "Birch Island" ; Times: 1
+	Query: "&#34;Salvelinus confluentus&#34; hastissue:1" ; Times: 3
+	Query: "Chondrichthyes country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;couesius plumbeus&#34; hastissue:1" ; Times: 1
+	Query: "Couesius plumbeus hastissue:1" ; Times: 1
+	Query: "Stegastes variabilis" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 1
+	Query: "Stegastes dorsopunicans" ; Times: 1
+	Query: "&#34;lota lota&#34; hastissue:1" ; Times: 3
+	Query: "Stegastes partitus" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 2
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "tidepool sculpin" ; Times: 1
+	Query: "&#34;lake chub&#34; hastissue:1" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Pomacentrus apicalis mappable:1" ; Times: 1
+	Query: "genus:syngnathus hastissue:1" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "Ophisternon aenigmaticum" ; Times: 2
+	Query: "W. E. English" ; Times: 1
+	Query: "Least Darter" ; Times: 2
+	Query: "Microspathodon chrysurus" ; Times: 2
+	Query: "Bull trout hastissue:1" ; Times: 1
+	Query: "&#34;Morone chrysops&#34; hastissue:1" ; Times: 1
+	Query: "&#34;minnow&#34; hastissue:1" ; Times: 1
+	Query: "Stegastes diencaeus" ; Times: 1
+	Query: "Stegastes sp." ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Stegastes dorsopunicans mappable:1" ; Times: 1
+	Query: "&#34;Couesius plumbeus&#34; hastissue:1" ; Times: 5
+	Query: "&#34;Arctic grayling&#34; hastissue:1" ; Times: 1
+	Query: "scientificname:(Ptychocheilus oregonensis) country:United States mappable:1" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 1
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "Arctic grayling hastissue:1" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "Pomacentrus apicalis" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Stegastes leucostictus" ; Times: 1
+	Query: "couesius plumbeus" ; Times: 3
+	Query: "Pomacentrus tripunctatus" ; Times: 1
+	Query: "Daya jerdoni" ; Times: 1
+	Query: "Kuhlia sandvicensis" ; Times: 1
+	Query: "&#34;White sucker&#34; hastissue:1" ; Times: 3
+	Query: "Stegastes planifrons" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 2
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "(&#34;14-C&#34;)" ; Times: 1
+	Query: "lota lota" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 2
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "Belone belone mappable:1" ; Times: 2
+	Query: "&#34;Lota lota&#34; hastissue:1" ; Times: 3
+	Query: "Paraneetroplus synspilus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "coregonus nasus" ; Times: 2
+	Query: "Least darter mappable:1" ; Times: 1
+	Query: "Stegastes diencaeus mappable:1" ; Times: 1
+	Query: "Eva Lake" ; Times: 1
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "bull trout" ; Times: 1
+	Query: "specificepithet:confluentus hastissue:1" ; Times: 81
+	Query: "genus:lota" ; Times: 1
+	Query: "Aplodinotus grunniens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1398 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eelpout" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 4
+
+
+End of report.

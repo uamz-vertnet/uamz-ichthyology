@@ -1,0 +1,128 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 944
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Canada ; Times: 23
+	Country: Mexico ; Times: 56
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 7
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 11
+	Date: 2018-02-22 ; Times: 13
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-27 ; Times: 16
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 7
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-20 ; Times: 22
+	Date: 2018-02-05 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 4
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "&#34;northern pike&#34;" ; Times: 2
+	Query: "lamprey" ; Times: 1
+	Query: "Naso literatus mappable:1" ; Times: 1
+	Query: "northern pike hastissue:1" ; Times: 2
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 21
+	Query: "specificepithet:annulatus genus:sphoeroides" ; Times: 1
+	Query: "genus:Percina hastissue:1" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 4
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "&#34;esox lucius&#34; hastissue:1" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "Grass carp hastissue:1" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "(Pseudochromidae) hastissue:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "specificepithet:Ablennes hians" ; Times: 4
+	Query: "Rivulidae" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "lamprey vntype:specimen" ; Times: 1
+	Query: "Pterois volitans" ; Times: 22
+	Query: "specificepithet:cirratum genus:Ginglymostoma hastissue:1" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Cutthroat Trout hastissue:1" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 8
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "scientificname:&#34;chrosomus eos&#34;" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "latimeriidae" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "Naso literatus" ; Times: 1
+	Query: "specificepithet:Ginglymostoma cirratum" ; Times: 4
+	Query: "pterois volitans" ; Times: 5
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "atlantic sturgeon" ; Times: 3
+	Query: "acipenseriformes" ; Times: 1
+	Query: "specificepithet:COLLIEI genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;cottus ricei&#34;" ; Times: 1
+	Query: "Pterois Volitans" ; Times: 2
+	Query: "&#34;Coregonus clupeaformis&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "hemichromis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1892 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "atlantic sturgeon" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,77 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 77
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 6
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "Atherinidae hastissue:1" ; Times: 2
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "bowling green" ; Times: 1
+	Query: "ku 8053" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "June sucker" ; Times: 1
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "coho salmon" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1178 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "morone americana" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.

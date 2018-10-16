@@ -1,0 +1,136 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 748
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 31
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-03 ; Times: 15
+	Date: 2018-04-02 ; Times: 6
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 4
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "wizard" ; Times: 2
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "migratory" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "&#34;Coregonus clupeaformis&#34; hastissue:1" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "salmo salar" ; Times: 3
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "genus:Margariscus year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "&#34;Clupea pallasii&#34; hastissue:1" ; Times: 1
+	Query: "Pseudochromidae hastissue:1" ; Times: 1
+	Query: "university of puget sound" ; Times: 1
+	Query: "Boreogadus saida" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "Melanotaeniidae hastissue:1" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Parupeneus" ; Times: 1
+	Query: "Brook trout" ; Times: 2
+	Query: "ptarmigan" ; Times: 1
+	Query: "axis axis" ; Times: 2
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "Nandidae hastissue:1" ; Times: 2
+	Query: "genus:Catostomus year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "brook trout" ; Times: 4
+	Query: "Atherinidae hastissue:1" ; Times: 3
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 3
+	Query: "genus:Margariscus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "&#34;Lake whitefish&#34; hastissue:1" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "Hiodon hastissue:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1359 download events in this period)
+Total number of records downloaded: 832
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 20
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-24 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+
+
+End of report.

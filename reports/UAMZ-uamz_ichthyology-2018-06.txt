@@ -1,0 +1,108 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 462
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 93
+	Country: Finland ; Times: 1
+	Country: Mexico ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-13 ; Times: 32
+	Date: 2018-06-21 ; Times: 40
+	Date: 2018-06-20 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "lamprey" ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "Naso literatus mappable:1" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Orestias" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "pterois volitans" ; Times: 9
+	Query: "wizard" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 1
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Pterois volitans" ; Times: 15
+	Query: "lingcod" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "orestias" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Naso literatus" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "psychrolutes" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "rainbow trout" ; Times: 4
+	Query: "Naso hexacanthus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1169 download events in this period)
+Total number of records downloaded: 328
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "smallmouth bass" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "Labeo rohita" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+
+
+End of report.

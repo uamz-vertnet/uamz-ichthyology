@@ -1,0 +1,97 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 21
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-27 ; Times: 15
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 5
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 15
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 3
+	Query: "latimeria" ; Times: 2
+	Query: "locality:clairmont" ; Times: 1
+	Query: "immaculatus" ; Times: 1
+	Query: "Orestias" ; Times: 1
+	Query: "Melichthys buniva mappable:1" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 3
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "UAMZ 121" ; Times: 1
+	Query: "Pterois volitans" ; Times: 20
+	Query: "orestias" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "13900" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "boreogadus saida" ; Times: 1
+	Query: "specificepithet:Ablennes hians" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "Chesapeake Bay" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 3
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1416 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.

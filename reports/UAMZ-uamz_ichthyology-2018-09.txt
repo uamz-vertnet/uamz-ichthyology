@@ -1,0 +1,86 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 16
+	Country: China ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-26 ; Times: 7
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 2
+	Query: "wizard" ; Times: 4
+	Query: "Diaphus theta" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "dolly varden" ; Times: 2
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "Constanta" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Blackeye goby" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "Calico Sculpin" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "Crevice Kelpfish" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 846 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.

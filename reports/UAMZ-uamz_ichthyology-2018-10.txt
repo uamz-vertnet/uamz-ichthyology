@@ -1,0 +1,132 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 256
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 73
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 7
+	Date: 2018-10-05 ; Times: 8
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-23 ; Times: 14
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 33
+	Date: 2018-10-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "Rhynchostracion nasus" ; Times: 2
+	Query: "Callionymus grossi" ; Times: 1
+	Query: "Ostracion lentiginosus" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "order:Osteoglossiformes hastissue:1" ; Times: 1
+	Query: "Apeltes quadracus Chesapeake Bay" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Callionymus japonicus japonicus" ; Times: 1
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Melichthys buniva mappable:1" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "Myxocyprinus" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "university of puget sound" ; Times: 1
+	Query: "Lactoria fornasini" ; Times: 1
+	Query: "Hippocampus planifrons" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 2
+	Query: "Halicampus grayi" ; Times: 2
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "Hippocampus ingens mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Hippocampus ingens" ; Times: 1
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "Syngnathus californiensis mappable:1" ; Times: 1
+	Query: "Oncorhynchus mykiss gairdneri mappable:1" ; Times: 1
+	Query: "Lactoria cornutus" ; Times: 1
+	Query: "Callionymus japonicus" ; Times: 2
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Ostracion lentiginosus mappable:1" ; Times: 1
+	Query: "Lactophrys polygonia" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 3
+	Query: "sebastes hastissue:1" ; Times: 3
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 2
+	Query: "(grunniens)" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "Hippocampus hudsonius mappable:1" ; Times: 1
+	Query: "Syngnathus californiensis californiensis mappable:1" ; Times: 1
+	Query: "Plecoglossus altivelis" ; Times: 1
+	Query: "white sturgeon mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1300 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.

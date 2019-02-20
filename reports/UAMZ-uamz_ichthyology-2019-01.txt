@@ -1,0 +1,79 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 11
+	Country: United States ; Times: 18
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-22 ; Times: 9
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-30 ; Times: 9
+	Date: 2019-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Osmerus eperlanus mappable:1" ; Times: 2
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "pink salmon" ; Times: 1
+	Query: "rhina" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "Rajella fyllae mappable:1" ; Times: 1
+	Query: "raja rhina" ; Times: 3
+	Query: "dogfish" ; Times: 1
+	Query: "Paraplagusia guttata" ; Times: 8
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "T. proximus" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "anoxypristis" ; Times: 2
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 2
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "preparations:skeletons basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Chum salmon" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenatus" ; Times: 1
+
+
+End of report.

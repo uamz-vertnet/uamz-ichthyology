@@ -1,0 +1,117 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 527
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 118
+	Country: Mexico ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 5
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-13 ; Times: 7
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 61
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-22 ; Times: 8
+	Date: 2019-02-16 ; Times: 5
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-15 ; Times: 17
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 53
+	Date: 2019-02-01 ; Times: 4
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Apogon lachneri mappable:1" ; Times: 5
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "Lumpenus fabricii mappable:1" ; Times: 1
+	Query: "pterois volitans}" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 3
+	Query: "brook trout" ; Times: 2
+	Query: "yellow perch" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 7
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 3
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "nasu nasu" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 16
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "Apogon maculatus mappable:1" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 3
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "tetrabrachium ocellatum" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 11
+	Query: "Ophichthus ophis mappable:1" ; Times: 2
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 2
+	Query: "grass carp" ; Times: 1
+	Query: "Pterois volitans" ; Times: 33
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 3
+	Query: "genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "Stegastes diencaeus mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 3
+	Query: "chrosomus neogaeus" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 18
+	Query: "pterois volitans" ; Times: 11
+	Query: "vntype:specimen genus:aulostomus hastissue:1" ; Times: 1
+	Query: "Coregonus artedi hastissue:1" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 2
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Coregonus artedi basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "Icelus spatula mappable:1" ; Times: 1
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "hippocampus ingens mexico" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1227 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "mottled sculpin" ; Times: 1
+	Query: "chrosomus neogaeus" ; Times: 1
+
+
+End of report.

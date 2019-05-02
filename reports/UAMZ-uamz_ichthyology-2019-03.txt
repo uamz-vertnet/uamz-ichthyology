@@ -1,0 +1,126 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 245
+Number of records retrieved in searches: 644
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 206
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 10
+	Date: 2019-03-01 ; Times: 10
+	Date: 2019-03-19 ; Times: 8
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 44
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-07 ; Times: 85
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 26
+	Date: 2019-03-14 ; Times: 7
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 8
+	Query: "&#34;morone americana&#34;" ; Times: 7
+	Query: "wizard" ; Times: 3
+	Query: "Apogon lachneri mappable:1" ; Times: 9
+	Query: "redside shiner" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "hiodon" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 9
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 8
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 10
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 4
+	Query: "Synodus intermedius mappable:1" ; Times: 2
+	Query: "Scorpaena inermis mappable:1" ; Times: 4
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 3
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "&#34;Perca fluviatilis&#34;" ; Times: 2
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 8
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 8
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "genus:Hiodon hastissue:1" ; Times: 1
+	Query: "Echidna catenata mappable:1" ; Times: 2
+	Query: "Ophichthus ophis mappable:1" ; Times: 2
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 8
+	Query: "Pterois volitans." ; Times: 1
+	Query: "Pterois volitans" ; Times: 5
+	Query: "Enchelycore nigricans mappable:1" ; Times: 2
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 8
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 8
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 4
+	Query: "Stegastes diencaeus mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "northern pike" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 8
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 8
+	Query: "Opisthonema oglinum" ; Times: 6
+	Query: "Sparisoma viride mappable:1" ; Times: 2
+	Query: "Tylosurus" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 7
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 2
+	Query: "sawfish" ; Times: 2
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 9
+	Query: "Canthigaster rostrata mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 2
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 8
+	Query: "platyura" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 5
+	Query: "Enchelycore carychroa mappable:1" ; Times: 2
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 4
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 8
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 8
+	Query: "Cantherhines pullus mappable:1" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1281 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 1
+
+
+End of report.

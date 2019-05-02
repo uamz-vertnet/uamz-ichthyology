@@ -1,0 +1,78 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 108
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 14
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 2
+	Country: Norway ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 9
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias" ; Times: 2
+	Query: "Brown trout" ; Times: 2
+	Query: "pauciradiatus" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "Sebastolobus altivelis" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "cutthroat trout" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "Centriscus scutatus" ; Times: 2
+	Query: "queen lake" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "Labeotropheus trewavasae" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "Pelvicachromis pulcher" ; Times: 1
+	Query: "Dataset snake" ; Times: 2
+	Query: "Stathmonotus stahli" ; Times: 1
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1263 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+
+
+End of report.

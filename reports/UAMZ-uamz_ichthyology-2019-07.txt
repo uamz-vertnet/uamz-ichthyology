@@ -1,0 +1,107 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 769
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 8
+	Date: 2019-07-08 ; Times: 37
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "vntype:specimen (spirit)" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "Raja rhina" ; Times: 3
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "Raja binoculata" ; Times: 5
+	Query: "Bull Trout" ; Times: 2
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Ptychochromis specificepithet:oligacanthus" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "specificepithet:paradoxus hastissue:1" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Tropheus" ; Times: 1
+	Query: "genus:Metriaclima" ; Times: 1
+	Query: "54-213" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:Benthochromis specificepithet:tricoti" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "recordedby:Holland" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Reganochromis specificepithet:calliurus" ; Times: 1
+	Query: "genus:Sphyraena specificepithet:sphyraena" ; Times: 1
+	Query: "genus:Cleithracara specificepithet:maronii" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "API" ; Times: 2
+	Query: "specificepithet:alburnus genus:Alburnus hastissue:1" ; Times: 1
+	Query: "genus:Pliosteostoma specificepithet:lutipinnis" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Protopterus" ; Times: 3
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+
+
+End of report.

@@ -1,0 +1,122 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 869
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 45
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Barbados ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 10
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 14
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 42
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Apogon maculatus mappable:1" ; Times: 2
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Apogon lachneri mappable:1" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Esox lucius" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 3
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "recordedby:Aiken" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "laeta" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 2
+	Query: "Gnathonemus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "7159" ; Times: 1
+	Query: "Bull Trout" ; Times: 4
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 2
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "Thoracocharax stellatus" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 3
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 1
+	Query: "Agamyxis pectinifrons" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 2
+	Query: "Pterois volitans" ; Times: 3
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 1
+	Query: "orestias" ; Times: 2
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "st. Catherines" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "scleropages" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 2
+	Query: "dolly varden" ; Times: 2
+	Query: "arapaima" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "brook trout" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "Kryptopterus bicirrhis" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "genus:Gilbertidia specificepithet:sigalutes" ; Times: 1
+	Query: "gasterosteus year &gt;= 1800 year &lt;= 1910" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 2
+	Query: "Barbados" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.

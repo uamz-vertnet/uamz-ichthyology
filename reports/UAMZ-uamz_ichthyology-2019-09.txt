@@ -1,0 +1,98 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 571
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 20
+	Country: United States ; Times: 26
+	Country: Belgium ; Times: 7
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 19
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 7
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Spinachia spinachia mappable:1" ; Times: 1
+	Query: "Smallmouth bass" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "arapaima gigas" ; Times: 1
+	Query: "piranha" ; Times: 1
+	Query: "bison Bison" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "hypomesus pretiosus" ; Times: 3
+	Query: "Odontopyxis trispinosa mappable:1" ; Times: 1
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 2
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "gasterosteus washington" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "specificepithet:carolinus genus:prionotus" ; Times: 2
+	Query: "genus:Bodianus continent:America" ; Times: 1
+	Query: "Bull Trout" ; Times: 2
+	Query: "raja eglanteria" ; Times: 1
+	Query: "stickleback washington" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Sebastes paucispinis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1073 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 1
+
+
+End of report.

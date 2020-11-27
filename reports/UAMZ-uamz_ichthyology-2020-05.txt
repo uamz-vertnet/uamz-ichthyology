@@ -1,0 +1,56 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "chromobotia macracanthus" ; Times: 5
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1106 download events in this period)
+Total number of records downloaded: 911
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Catostomus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.

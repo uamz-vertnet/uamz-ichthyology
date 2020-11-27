@@ -1,0 +1,216 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1089
+Number of records retrieved in searches: 20267
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1033
+	Country: Lithuania ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 221
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-11 ; Times: 5
+	Date: 2020-04-10 ; Times: 11
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 8
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 264
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-03 ; Times: 83
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 470
+	Date: 2020-04-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 5
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Esox lucius" ; Times: 10
+	Query: "Coregonus clupeaformis" ; Times: 5
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Tinca tinca" ; Times: 7
+	Query: "wizard" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Stomatepia pindu" ; Times: 22
+	Query: "Gymnocanthus tricuspis" ; Times: 8
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "Gila robusta" ; Times: 2
+	Query: "Cottocomephorus inermis" ; Times: 7
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Pungitius hellenicus" ; Times: 14
+	Query: "Petrochromis trewavasae" ; Times: 18
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Tanganicodus" ; Times: 1
+	Query: "Katria katria" ; Times: 7
+	Query: "Symphysodon discus" ; Times: 2
+	Query: "Gymnocephalus baloni" ; Times: 9
+	Query: "Oncorhynchus masou" ; Times: 3
+	Query: "Gasterosteus wheatlandi" ; Times: 7
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "Cottunculus thomsonii" ; Times: 5
+	Query: "Tropheus duboisi" ; Times: 18
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "Cyprichromis" ; Times: 10
+	Query: "Astatotilapia calliptera" ; Times: 18
+	Query: "Orthochromis" ; Times: 5
+	Query: "Neolamprologus" ; Times: 2
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Aulichthys japonicus" ; Times: 7
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Synodontis petricola" ; Times: 9
+	Query: "Axis axis" ; Times: 2
+	Query: "Salvelinus confluentus" ; Times: 5
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Novumbra hubbsi" ; Times: 3
+	Query: "Merluccius productus" ; Times: 6
+	Query: "Enophrys bison" ; Times: 5
+	Query: "Myaka myaka" ; Times: 22
+	Query: "Cottus gobio" ; Times: 10
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Perca flavescens" ; Times: 3
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Ctenochromis" ; Times: 3
+	Query: "Ichthyomyzon fossor" ; Times: 2
+	Query: "Mugil cephalus" ; Times: 8
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Symphysodon aequifasciata" ; Times: 2
+	Query: "Osmerus eperlanus" ; Times: 5
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Salmo trutta" ; Times: 7
+	Query: "lamprey" ; Times: 1
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Comephorus baikalensis" ; Times: 7
+	Query: "Steatocranus" ; Times: 3
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Pundamilia" ; Times: 10
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 5
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Chrosomus neogaeus" ; Times: 7
+	Query: "Kryptopterus bicirrhis" ; Times: 7
+	Query: "Julidochromis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 10
+	Query: "Gasterosteus aculeatus" ; Times: 15
+	Query: "Indostomus paradoxus" ; Times: 5
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "Eleutheronema tetradactylum" ; Times: 5
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Pseudorasbora parva" ; Times: 12
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "Polypterus palmas" ; Times: 9
+	Query: "Hippoglossoides elassodon" ; Times: 5
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "lateolabrax japonicus" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "Merluccius bilinearis" ; Times: 6
+	Query: "Aulonocara" ; Times: 3
+	Query: "Trichogaster leerii" ; Times: 5
+	Query: "Netuma thalassina" ; Times: 8
+	Query: "Cottus ricei" ; Times: 10
+	Query: "Aulonocara stuartgranti" ; Times: 22
+	Query: "Engraulis mordax" ; Times: 4
+	Query: "Ichthyomyzon unicuspis" ; Times: 2
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 5
+	Query: "Cheilochromis" ; Times: 1
+	Query: "scientificname:(Etheostoma tuscumbia) country:United States mappable:1" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 7
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Pungitius platygaster" ; Times: 14
+	Query: "botia lohachata" ; Times: 2
+	Query: "Oreochromis esculentus" ; Times: 22
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "Oreochromis tanganicae" ; Times: 23
+	Query: "Gila atraria" ; Times: 2
+	Query: "Thoracochromis" ; Times: 2
+	Query: "salmo salar" ; Times: 3
+	Query: "Protomelas annectens" ; Times: 5
+	Query: "Anchoa hepsetus" ; Times: 4
+	Query: "Pungitius sinensis" ; Times: 14
+	Query: "Cheilochromis euchilus" ; Times: 5
+	Query: "Plecoglossus altivelis" ; Times: 5
+	Query: "Labeo rohita" ; Times: 4
+	Query: "Hypomesus olidus" ; Times: 5
+	Query: "Hypomesus pretiosus" ; Times: 5
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Agamyxis pectinifrons" ; Times: 5
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Cottus asper" ; Times: 10
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Tropheus" ; Times: 2
+	Query: "Microstomus pacificus" ; Times: 5
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 8
+	Query: "Blicca bjoerkna" ; Times: 16
+	Query: "Tyrannochromis" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Cottus poecilopus" ; Times: 8
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "Hemichromis" ; Times: 1
+	Query: "Gyrinocheilus aymonieri" ; Times: 5
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Myaka" ; Times: 1
+	Query: "Coregonus zenithicus" ; Times: 5
+	Query: "Pholis ornata" ; Times: 5
+	Query: "(Mesozoic) institutioncode:UAMZ" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Lepomis gibbosus" ; Times: 6
+	Query: "Aplodinotus grunniens" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1171 download events in this period)
+Total number of records downloaded: 846
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Lithuania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gasterosteus aculeatus" ; Times: 1
+
+
+End of report.

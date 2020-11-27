@@ -1,0 +1,107 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 506
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 4
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 6
+	Country: New Zealand ; Times: 48
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 24
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 31
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 6
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "&#34;Selar crumenophthalmus&#34;" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "porichthys" ; Times: 1
+	Query: "Raja rhina" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "notropis blennius" ; Times: 2
+	Query: "Rajella fyllae" ; Times: 2
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "Gymnura australis" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Etmopterus granulosus" ; Times: 2
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "Diplophos" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Somniosus microcephalus" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Sawfish" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "diplophos" ; Times: 3
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "greenling" ; Times: 1
+	Query: "sawfish" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Gymnocephalus baloni" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "krameri Umbra" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.

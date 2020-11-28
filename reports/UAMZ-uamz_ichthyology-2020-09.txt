@@ -1,0 +1,101 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 8
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 17
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Serranus scriba" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Dussumieria acuta" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Serranus hepatus" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "wizard" ; Times: 9
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "arapaima gigas" ; Times: 2
+	Query: "specificepithet:evolans genus:prionotus" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Spratelloides delicatulus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "platichthys stellatus" ; Times: 1
+	Query: "Prionotus evolans" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "11923" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 170
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "curacao" ; Times: 2
+
+
+End of report.

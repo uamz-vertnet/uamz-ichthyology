@@ -1,0 +1,136 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 546
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 137
+	Country: United States ; Times: 8
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-07 ; Times: 127
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lake whitefish" ; Times: 1
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 3
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 2
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Anchoa cayorum mappable:1" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 2
+	Query: "Echidna catenata mappable:1" ; Times: 1
+	Query: "Ophichthus ophis mappable:1" ; Times: 1
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 2
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Enchelycore nigricans mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 2
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 2
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 2
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Ophioblennius atlanticus mappable:1" ; Times: 3
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 2
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 2
+	Query: "Stegastes diencaeus mappable:1" ; Times: 2
+	Query: "genus:Hiodon" ; Times: 2
+	Query: "gadus" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 2
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Remora osteochir mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Canthigaster rostrata mappable:1" ; Times: 2
+	Query: "Equetus lanceolatus mappable:1" ; Times: 2
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Symphurus plagiusa mappable:1" ; Times: 2
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 2
+	Query: "Moringua edwardsi mappable:1" ; Times: 2
+	Query: "Aulostomus maculatus mappable:1" ; Times: 2
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 2
+	Query: "Bothus lunatus mappable:1" ; Times: 2
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 3
+	Query: "Moringua edwardsi  mappable:1" ; Times: 1
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 2
+	Query: "Chaetodon capistratus mappable:1" ; Times: 2
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 2
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 2
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "Scorpaena plumieri mappable:1" ; Times: 2
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 1
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 2
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "mykiss" ; Times: 2
+	Query: "Apogon lachneri mappable:1" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Stegastes partitus" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "Gadus" ; Times: 2
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 2
+	Query: "Lactophrys triqueter mappable:1" ; Times: 2
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "eglanteria" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "Malacoctenus triangulatus mappable:1" ; Times: 2
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 3
+	Query: "Paralichthys dentatus mappable:1" ; Times: 3
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Sparisoma viride mappable:1" ; Times: 2
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "scardinius" ; Times: 1
+	Query: "Enchelycore carychroa mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

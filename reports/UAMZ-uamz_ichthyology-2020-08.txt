@@ -1,0 +1,119 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 849
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 34
+	Country: Australia ; Times: 7
+	Country: Honduras ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-05 ; Times: 8
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-06 ; Times: 7
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-18 ; Times: 10
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-21 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Platichthys stellatus" ; Times: 2
+	Query: "Pungitius platygaster" ; Times: 1
+	Query: "Myaka myaka" ; Times: 1
+	Query: "Oreochromis esculentus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Electrophorus electricus" ; Times: 6
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Ablennes hians" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Pungitius sinensis" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "Stomatepia pindu" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "brown trout" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Ariopsis seemanni" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Moxostoma anisurum" ; Times: 4
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "hippocampus planifrons" ; Times: 7
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "genus:Periophthalmodon" ; Times: 1
+	Query: "Achirus mazatlanus" ; Times: 2
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Pungitius hellenicus" ; Times: 1
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 6
+	Query: "Aulonocara stuartgranti" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Engraulis mordax" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Duchess" ; Times: 1
+	Query: "Apogon lachneri" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Aulichthys japonicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 6817
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+
+
+End of report.

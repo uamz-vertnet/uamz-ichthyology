@@ -1,0 +1,114 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 391
+Number of records retrieved in searches: 8581
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 368
+	Country: Peru ; Times: 1
+	Country: France ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-11 ; Times: 144
+	Date: 2020-06-10 ; Times: 143
+	Date: 2020-06-15 ; Times: 46
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-17 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "Pungitius platygaster" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Tropheus duboisi" ; Times: 6
+	Query: "Oreochromis esculentus" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "family:batrachoididae hastissue:1" ; Times: 3
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "otolithes ruber" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "Myaka myaka" ; Times: 6
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 6
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Pungitius sinensis" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Stomatepia pindu" ; Times: 6
+	Query: "Salmo salar" ; Times: 9
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Indostomus paradoxus" ; Times: 6
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Cottus asper" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottocomephorus inermis" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Mugil cephalus" ; Times: 11
+	Query: "Pungitius hellenicus" ; Times: 6
+	Query: "Pliosteostoma lutipinnis" ; Times: 1
+	Query: "Petrochromis trewavasae" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Trichogaster leerii" ; Times: 6
+	Query: "Netuma thalassina" ; Times: 12
+	Query: "Cottus ricei" ; Times: 6
+	Query: "Astatotilapia calliptera" ; Times: 6
+	Query: "Aulonocara stuartgranti" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Coregonus zenithicus" ; Times: 6
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Comephorus baikalensis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 474 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+
+
+End of report.

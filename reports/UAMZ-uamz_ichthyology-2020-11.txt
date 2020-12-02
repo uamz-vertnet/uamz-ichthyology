@@ -1,0 +1,204 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 3021
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 20
+	Country: United Kingdom ; Times: 192
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-24 ; Times: 8
+	Date: 2020-11-25 ; Times: 8
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-07 ; Times: 5
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-02 ; Times: 169
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-01 ; Times: 3
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-26 ; Times: 22
+	Date: 2020-11-23 ; Times: 3
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 13
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 5
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Sphyraena jello" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 1
+	Query: "Rhodeus ocellatus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Kyphosus cinerascens" ; Times: 2
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Stomatepia pindu" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "Alburnus alburnus" ; Times: 3
+	Query: "Cottocomephorus inermis" ; Times: 2
+	Query: "Heros severus" ; Times: 1
+	Query: "Ammodytes hexapterus" ; Times: 2
+	Query: "macrognathus aculeatus" ; Times: 1
+	Query: "Gazza minuta" ; Times: 5
+	Query: "Cobitis taenia" ; Times: 5
+	Query: "scientificname:Alosa alosa" ; Times: 15
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Petrochromis trewavasae" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Gymnocephalus cernuus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 4
+	Query: "Gobio gobio" ; Times: 4
+	Query: "genus:Gymnocanthus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Lota genus:Lota" ; Times: 3
+	Query: "Margariscus margarita" ; Times: 1
+	Query: "Tropheus duboisi" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 1
+	Query: "Lutjanus kasmira" ; Times: 2
+	Query: "Epinephelus fuscoguttatus" ; Times: 2
+	Query: "Salmo Trutta" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Salvelinus fontinalis X namaycush" ; Times: 1
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "genus:Psychrolutes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Caranx ignobilis" ; Times: 2
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "Oxylebius pictus" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Rastrelliger kanagurta" ; Times: 3
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Myaka myaka" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "Salvelinus fontinalis X salvelinus namaycush" ; Times: 1
+	Query: "Betta splendens" ; Times: 1
+	Query: "Priacanthus tayenus" ; Times: 2
+	Query: "Neolamprologus brichardi" ; Times: 1
+	Query: "Salvelinus alpinus" ; Times: 2
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "Cephalopholis cyanostigma" ; Times: 2
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Lota lota" ; Times: 2
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "Paraplagusia bilineata" ; Times: 2
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "Comephorus baikalensis" ; Times: 1
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "Megalaspis cordyla" ; Times: 5
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Chrosomus neogaeus" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "Pterois volitans" ; Times: 4
+	Query: "Anabas testudineus" ; Times: 2
+	Query: "Gasterosteus aculeatus" ; Times: 3
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Spinachia spinachia" ; Times: 3
+	Query: "Pseudorasbora parva" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Chrosomus eos" ; Times: 2
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Sillago sihama" ; Times: 5
+	Query: "Platycephalus indicus" ; Times: 3
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Cottus ricei" ; Times: 1
+	Query: "Aulonocara stuartgranti" ; Times: 1
+	Query: "Psettodes erumei" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "genus:anoplarchus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Lutjanus fulviflamma" ; Times: 5
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 2
+	Query: "Siniperca chuatsi" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Oreochromis esculentus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 3
+	Query: "Arothron immaculatus" ; Times: 1
+	Query: "specificepithet:brevipes hastissue:1" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "specificepithet:phrictus genus:Psychrolutes" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "Cephalopholis fulva" ; Times: 2
+	Query: "Protomelas annectens" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "Cheilochromis euchilus" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "Acanthurus xanthopterus" ; Times: 3
+	Query: "Couesius plumbeus" ; Times: 1
+	Query: "Periophthalmus minutus" ; Times: 2
+	Query: "Cottus asper" ; Times: 1
+	Query: "Symphurus elongatus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 2
+	Query: "scientificname:Bison bison" ; Times: 8
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "Chirocentrus dorab" ; Times: 1
+	Query: "Tactostoma macropus" ; Times: 1
+	Query: "Bodianus bilunulatus" ; Times: 1
+	Query: "genus:Orthonopias stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepomis gibbosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 842 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+
+
+End of report.

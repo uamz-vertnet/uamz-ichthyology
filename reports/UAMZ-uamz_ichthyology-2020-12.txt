@@ -1,0 +1,166 @@
+Report for Institution Code UAMZ, Resource uamz_ichthyology
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1203
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 77
+	Country: United Kingdom ; Times: 56
+	Country: Denmark ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 11
+	Date: 2020-12-30 ; Times: 20
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-04 ; Times: 23
+	Date: 2020-12-03 ; Times: 16
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-01 ; Times: 15
+	Date: 2020-12-09 ; Times: 7
+	Date: 2020-12-08 ; Times: 21
+	Date: 2020-12-11 ; Times: 8
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 5
+	Date: 2020-12-14 ; Times: 15
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Dussumieria acuta" ; Times: 1
+	Query: "scientificname:Carcharias taurus" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 6
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "scientificname:Spratelloides delicatulus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "scientificname:Himantura uarnak" ; Times: 2
+	Query: "Stomatepia pindu" ; Times: 2
+	Query: "scientificname:Serranus cabrilla" ; Times: 2
+	Query: "scientificname:Scomber scombrus" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Cobitis taenia" ; Times: 1
+	Query: "Pungitius hellenicus" ; Times: 1
+	Query: "scientificname:Echeneis naucrates" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "scientificname:Pomatomus saltatrix" ; Times: 1
+	Query: "Margariscus margarita" ; Times: 2
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "Engraulis mordax" ; Times: 1
+	Query: "Epinephelus fuscoguttatus" ; Times: 1
+	Query: "scientificname:Ammodytes tobianus" ; Times: 1
+	Query: "genus:Psychrolutes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Synodontis petricola" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 4
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 3
+	Query: "vliet" ; Times: 1
+	Query: "Novumbra hubbsi" ; Times: 1
+	Query: "Merluccius productus" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "Myaka myaka" ; Times: 2
+	Query: "scientificname:Merluccius merluccius" ; Times: 2
+	Query: "Merluccius bilinearis" ; Times: 1
+	Query: "Symphysodon aequifasciata" ; Times: 1
+	Query: "scientificname:Rastrelliger kanagurta" ; Times: 1
+	Query: "scientificname:Coryphaena hippurus" ; Times: 1
+	Query: "scientificname:Serranus scriba" ; Times: 1
+	Query: "Microspathodon chrysurus" ; Times: 1
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "scientificname:Limanda limanda" ; Times: 1
+	Query: "Osmerus eperlanus" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "vliet -kent" ; Times: 4
+	Query: "scientificname:Belone belone" ; Times: 1
+	Query: "scientificname:Sphoeroides spengleri" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Oreochromis esculentus" ; Times: 2
+	Query: "scientificname:Serranus hepatus" ; Times: 2
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "scientificname:Pagrus major" ; Times: 1
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Chrosomus neogaeus" ; Times: 2
+	Query: "scientificname:Trachurus trachurus" ; Times: 4
+	Query: "Ameiurus nebulosus" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 2
+	Query: "Mastacembelus favus" ; Times: 1
+	Query: "scientificname:Remora osteochir" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "specificepithet:naucrates genus:Echeneis" ; Times: 1
+	Query: "Anodontostoma chacunda" ; Times: 1
+	Query: "scientificname:Cyclopterus lumpus" ; Times: 1
+	Query: "arapaima" ; Times: 3
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "scientificname:Sarpa salpa" ; Times: 2
+	Query: "Aulonocara stuartgranti" ; Times: 2
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 2
+	Query: "scientificname:Platycephalus indicus" ; Times: 1
+	Query: "scientificname:Sillago sihama" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 2
+	Query: "Lepidogobius lepidus" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "specificepithet:phrictus genus:Psychrolutes" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 2
+	Query: "Anchoa hepsetus" ; Times: 1
+	Query: "Pungitius sinensis" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 2
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "scientificname:Thunnus albacares" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "scientificname:Sparus aurata" ; Times: 2
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "scientificname:Fistularia petimba" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 4
+	Query: "scientificname:Diplodus annularis" ; Times: 1
+	Query: "gymnothorax reticularis" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "Zoologisk Museum" ; Times: 1
+	Query: "scientificname:Etrumeus teres" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 705 download events in this period)
+Total number of records downloaded: 191
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+
+
+End of report.
